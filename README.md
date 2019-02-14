@@ -1,5 +1,5 @@
 React Project - 1
-Static Landing Page (SPA) from Udemy - React Practice Course by Coding Revolution
+Static Landing Page (SPA) 
 
 The first part of the course was only just pure React, without any of the Redux or any of the MERN stack. Great introduction though, I might add! 
 
